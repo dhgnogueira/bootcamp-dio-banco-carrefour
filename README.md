@@ -1,4 +1,4 @@
-# Bootcamp-dio-banco-carrefour
+# Bootcamp-dio-banco-carrefour :tada:
 
 Bootcamp da área de desenvolvimento voltado para o incentivo da entrada de mulheres na tecnologia da informação
 
@@ -28,4 +28,4 @@ Conteúdo:
 - Modelando um banco de dados na prática com SQL Server;
 - SQL Server: boas práticas em bancos relacionais;
 - Desafios de projeto;
-- Desafios de código
+- Desafios de código.
